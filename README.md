@@ -1,2 +1,14 @@
 # oubo-crown-hub
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 后续维护
+
+页面文件会随任务增加，可通过提交历史查看更新过程。
